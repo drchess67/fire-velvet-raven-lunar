@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Canyon Atlas",
+      "hasCanvas": false,
+      "bodyTextLen": 968,
+      "bodyTextHash": "1717bd2f945c0236425b7c8880fac66bdcf5efd2991722909b69de493f23b9a8",
+      "bodyTextPrefix": "Building the canyon… EPISODE 10 · BONEYARD RUSH Canyon 3D course",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Canyon Atlas",
+      "hasCanvas": true,
+      "bodyTextLen": 855,
+      "bodyTextHash": "fcf0d5c948fd5c31426e89215ded69bc641837de2fc89a154db56efe13975c85",
+      "bodyTextPrefix": "EPISODE 10 · BONEYARD RUSH Canyon 3D course atlas. Drag to orbit",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
